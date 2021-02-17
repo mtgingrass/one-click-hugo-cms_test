@@ -1,10 +1,9 @@
 ---
 title: A beginners’ guide to brewing with Chemex
 date: 2017-01-04T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+description: Brewing with a Chemex probably seems like a complicated,
+  time-consuming ordeal, but once you get used to the process, it becomes a
+  soothing ritual that's worth the effort every time.
 image: /img/blog-chemex.jpg
 ---
 
@@ -15,6 +14,11 @@ In 1958, designers at the [Illinois Institute of Technology](https://www.spacefa
 ## The little secrets of Chemex brewing
 
 The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+
+<p align="center"><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=1482243237&asins=1482243237&linkId=ed7574e48b9f2b5cdba74486fe33cd23&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=B004J4XGN6&asins=B004J4XGN6&linkId=7f87b4d27bd33583d55d06a401e8dfe6&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe></p>
+
 
 1. Always buy dedicated Chemex filters.
 2. Use a scale, don’t try to eyeball it.
