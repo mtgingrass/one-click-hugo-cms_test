@@ -3,4 +3,4 @@ title = "My New Netlify Victor Hugo Site"
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-    unsafe = true
+      unsafe = true
