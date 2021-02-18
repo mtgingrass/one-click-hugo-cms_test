@@ -24,7 +24,7 @@ The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conica
 
 
 
-
+1. Test
 2. Use a scale, don’t try to eyeball it.
 3. Never skip preheating the glass.
 4. Timing is key, don’t forget the clock.
