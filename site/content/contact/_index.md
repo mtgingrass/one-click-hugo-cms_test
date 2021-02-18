@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/icon.png
+logo: img/icon.png
 contact_entries:
   - heading: Email
     text: admin@DevGin.com
