@@ -3,9 +3,10 @@
   {{ partial "head" . }}
   <body class="sans-serif">
 
-   <!-- {{ block "header" . }}{{ partial "nav" . }}{{end}}-->
+   {{ block "header" . }}{{ partial "nav" . }}{{end}}
 
-    {{ block "main" . }}{{ end }}
+   {{ block "blog" . }}{{ end }}
+  <!--  {{ block "main" . }}{{ end }}-->
 
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 
